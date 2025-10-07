@@ -42,6 +42,7 @@ datasets, consultas básicas e insights sobre el rendimiento del equipo, utiliza
 ## 📊 Progreso actual
 | Tarea                         | Estado    |
 |-------------------------------|-----------|
+| Creacion del repositorio               | ✔️ Listo |
 | Dataset inicial               | ✔️ Listo |
 | Consultas básicas SQL         | ⏳ En curso |
 | Excel con primeros gráficos   | ❌ Pendiente |
