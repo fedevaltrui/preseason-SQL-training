@@ -15,7 +15,7 @@ datasets, consultas básicas e insights sobre el rendimiento del equipo, utiliza
 ## 🚀 Próximos pasos
 
 ### Corto plazo (Semana 1)
-- [ ] Completar dataset de partidos de Lanús (últimas 30 temporadas).
+- [X] Completar dataset de partidos de Lanús (últimas 10 temporadas).
 - [ ] Subir consultas básicas en SQL (partidos, goles, puntos).
 - [ ] Publicar gráficos iniciales en Excel/Sheets.
 
